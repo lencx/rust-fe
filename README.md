@@ -19,10 +19,9 @@ Rust 因其出色的表现，连续 7 年在 StackOverflow 调查中成为最受
 
 - [Rust 在前端](https://github.com/lencx/rust-fe/discussions/3)
 - [环境配置](https://github.com/lencx/rust-fe/discussions/5)
+- [项目初始化](https://github.com/lencx/rust-fe/discussions/6)
+- [待更新...]
 
 ## 二维码
 
 <img width="240" alt="qrcode" src="https://user-images.githubusercontent.com/16164244/202938493-7bd2069d-4c21-48ee-b3c3-5c908ad54a23.png" /> <img width="240" alt="qrcode" src="https://user-images.githubusercontent.com/16164244/202938348-222c8012-94be-4dd0-a763-0506de75e51f.JPG" />
-
-
-

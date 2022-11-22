@@ -1,0 +1,12 @@
+[package]
+# 包名称
+name = "hello"
+# 包版本
+version = "0.1.0"
+# 指定 Rust 版本（目前有 2015、2018 和 2021）
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# 依赖
+[dependencies]
