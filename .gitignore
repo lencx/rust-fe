@@ -2,3 +2,6 @@
 
 # Rust
 target/
+
+# draft
+examples/_*
