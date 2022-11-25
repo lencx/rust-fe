@@ -1,0 +1,10 @@
+[package]
+name = "rust-fe"
+version = "0.1.0"
+description = "🦀 Rust in front-end (系列教程 - 用前端视角学习 Rust)"
+authors = ["lencx <cxin1314@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
